@@ -1,0 +1,5 @@
+E:\git-alize\Been\Been\Been.Soa\bin\Debug\Been.Soa.dll
+E:\git-alize\Been\Been\Been.Soa\bin\Debug\Been.Soa.pdb
+E:\git-alize\Been\Been\Been.Soa\obj\Debug\Been.Soa.csprojResolveAssemblyReference.cache
+E:\git-alize\Been\Been\Been.Soa\obj\Debug\Been.Soa.dll
+E:\git-alize\Been\Been\Been.Soa\obj\Debug\Been.Soa.pdb

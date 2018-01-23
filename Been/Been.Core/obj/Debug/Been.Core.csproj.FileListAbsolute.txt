@@ -1,0 +1,5 @@
+E:\git-alize\Been\Been\Been.Core\bin\Debug\Been.Core.dll
+E:\git-alize\Been\Been\Been.Core\bin\Debug\Been.Core.pdb
+E:\git-alize\Been\Been\Been.Core\obj\Debug\Been.Core.csprojResolveAssemblyReference.cache
+E:\git-alize\Been\Been\Been.Core\obj\Debug\Been.Core.dll
+E:\git-alize\Been\Been\Been.Core\obj\Debug\Been.Core.pdb

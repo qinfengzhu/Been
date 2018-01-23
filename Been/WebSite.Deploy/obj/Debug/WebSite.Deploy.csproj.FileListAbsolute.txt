@@ -1,0 +1,5 @@
+E:\git-alize\Been\Been\WebSite.Deploy\bin\Debug\WebSite.Deploy.dll
+E:\git-alize\Been\Been\WebSite.Deploy\bin\Debug\WebSite.Deploy.pdb
+E:\git-alize\Been\Been\WebSite.Deploy\obj\Debug\WebSite.Deploy.csprojResolveAssemblyReference.cache
+E:\git-alize\Been\Been\WebSite.Deploy\obj\Debug\WebSite.Deploy.dll
+E:\git-alize\Been\Been\WebSite.Deploy\obj\Debug\WebSite.Deploy.pdb

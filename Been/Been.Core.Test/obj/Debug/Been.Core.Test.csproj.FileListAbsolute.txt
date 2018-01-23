@@ -1,0 +1,9 @@
+E:\git-alize\Been\Been\Been.Core.Test\bin\Debug\Been.Core.Test.dll
+E:\git-alize\Been\Been\Been.Core.Test\bin\Debug\Been.Core.Test.pdb
+E:\git-alize\Been\Been\Been.Core.Test\bin\Debug\Been.Core.dll
+E:\git-alize\Been\Been\Been.Core.Test\bin\Debug\nunit.framework.dll
+E:\git-alize\Been\Been\Been.Core.Test\bin\Debug\Been.Core.pdb
+E:\git-alize\Been\Been\Been.Core.Test\bin\Debug\nunit.framework.xml
+E:\git-alize\Been\Been\Been.Core.Test\obj\Debug\Been.Core.Test.csprojResolveAssemblyReference.cache
+E:\git-alize\Been\Been\Been.Core.Test\obj\Debug\Been.Core.Test.dll
+E:\git-alize\Been\Been\Been.Core.Test\obj\Debug\Been.Core.Test.pdb
